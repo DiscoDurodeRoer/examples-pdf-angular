@@ -25,3 +25,13 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+Videos:
+
+- https://www.youtube.com/watch?v=hQRvXhWY8Es
+- https://www.youtube.com/watch?v=lq7A9Hlp3Kw
+
+Tutoriales:
+
+- https://www.discoduroderoer.es/como-crear-un-pdf-en-angular-con-pdfmake/
+- https://www.discoduroderoer.es/como-crear-tablas-en-un-pdf-con-pdfmake-en-angular/
